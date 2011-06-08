@@ -1,0 +1,4 @@
+ERROR MSG: "Could not gain access to /dev/sound/dsp for writing";
+CMD01 $ sudo ln -s /dev/snd /dev/sound 
+CMD02 $ sudo ln -s /dev/dsp /dev/snd/dsp
+
