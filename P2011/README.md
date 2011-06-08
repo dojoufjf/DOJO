@@ -6,8 +6,6 @@ Sessões de Dojo 2011
 * **01/04/2011** - [Lâmpadas][corredor].
 * **02/04/2011** - [Números Felizes][no_felizes].
 * **08/04/2011** - [Letras][letras].
-
-
 * **25/04/2011** - Selector DOJO.
 * **02/05/2011** - Problema Anna: Amigo Oculto.
 * **09/05/2011** - Problema Fernando: Truco.
